@@ -1,0 +1,32 @@
+# Automotive Stocks Dashboard
+
+## Overview
+
+This dashboard is a portfolio project designed to analyze and visualize trends in automotive stocks. It enables users to track stock performance, compare different stocks, and view key metrics such as open, high, low, and close prices. Through the use of macros and various data analysis techniques, users can efficiently interact with and explore the data.
+
+## Features
+
+- **Trend Analysis**: View stock performance over time with line and bar charts.
+- **Stock Filtering Options**: Filter and compare automotive stocks based on:
+  - Opening price
+  - High and low prices
+  - Closing price
+  - Trading volume and volatility
+- **Background Analysis**: Provides historical context with metrics like 52-week highs/lows.
+- **Customizable Views**: Select individual stocks, groups, or subsets of the automotive industry for focused analysis.
+  
+## Data Processing and Automation Techniques
+
+- **VLOOKUP and Cross-References**: Enables dynamic cross-referencing of stock data for comparison.
+- **Macros**: Automate repetitive tasks, like refreshing data and applying specific filters.
+- **Conditional Formatting**: Highlights important metrics, making it easy to spot key trends.
+- **Pivot Tables**: Summarize data dynamically for deeper analysis across sectors, performance metrics, and timeframes.
+- **Background Calculations and Alerts**: Automated alerts for significant volatility or threshold crossings.
+- **Stock Sets/Subsets**: Allows users to view predefined groups (e.g., EV manufacturers, traditional automakers) for tailored comparisons.
+
+## Usage Guide
+
+1. **Select Stocks and Parameters**: Use filters to select specific stocks or subsets.
+2. **Adjust Data Range**: Define time periods for analysis, from recent data to historical trends.
+3. **Leverage VLOOKUP and Pivot Tables**: Make comparisons across different stock sets and summarize metrics.
+4. **Macros for Quick Actions**: Predefined macros automate data refresh and filter application.
